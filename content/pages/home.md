@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: "Hieu Trung Group "
-featuredImage: https://ucarecdn.com/fef33cea-890a-4be4-9bdc-3c10621dfeba/
+featuredImage: https://ucarecdn.com/aa5f3ba1-2b6e-425b-9db8-21acea07b367/
 subtitle: >-
   Hieu Trung is a dynamic and innovative company that offers a wide range of
   services in image and marketing fields, as well as digitalizing businesses.
