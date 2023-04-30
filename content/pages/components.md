@@ -1,7 +1,7 @@
 ---
 template: ComponentsPage
 slug: components
-title: Hieu Trung Group
+title: Development
 featuredImage: https://ucarecdn.com/937e1a07-2800-4b52-a926-040e3e316828/
 subtitle: Transforming businesses for a digital tomorrow
 section1: >-
