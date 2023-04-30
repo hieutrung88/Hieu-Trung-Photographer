@@ -61,7 +61,7 @@ export class Navigation extends Component {
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
           <Link
-            to="/"
+            to="/components/"
             onClick={this.handleLinkClick}
             onKeyDown={this.handleLinkKeyDown}
             tabIndex={0}
@@ -72,7 +72,7 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
                <NavLink to="/components/">Home</NavLink>
-            <NavLink to="/">About</NavLink>
+            <NavLink to="/components/">About</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
