@@ -14,9 +14,7 @@ subtitle: >-
   Our image and marketing services include but are not limited to
 
 
-  ##### **Branding**, **Graphic design**, **Photography**, V**ideography**, S**ocial media management,**\
-
-  **and Content creation**. 
+  # **Branding**, **Graphic design**, **Photography**, V**ideography**, S**ocial media management and Content creation**. 
 
 
   We work closely with our clients to ensure that their brand message is effectively communicated to their target audience, helping them to stand out in a crowded market.
