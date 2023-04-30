@@ -61,7 +61,7 @@ export class Navigation extends Component {
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
           <Link
-            to="/components/"
+            to="/"
             onClick={this.handleLinkClick}
             onKeyDown={this.handleLinkKeyDown}
             tabIndex={0}
@@ -71,7 +71,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-               <NavLink to="/components/">Home</NavLink>
+               <NavLink to="/">Home</NavLink>
             <NavLink to="/components/">About</NavLink>
             <div
               className={`Nav--Group ${
