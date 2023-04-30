@@ -5,14 +5,6 @@ title: Hieu Trung Group
 featuredImage: https://ucarecdn.com/ace611c5-8953-4077-b8fe-4129b25bd055/
 subtitle: Transforming businesses for a digital tomorrow
 section1: >-
-  ## I'm Hieu Trung
-
-
-  Hieu Trung is a dynamic and innovative company that offers a wide range of services in image and marketing fields, as well as digitalizing businesses. With a team of highly skilled and experienced professionals, Hieu Trung is committed to providing top-notch solutions that meet the unique needs of each client.
-
-
-  Our image and marketing services include but are not limited to branding, graphic design, photography, videography, social media management, and content creation. We work closely with our clients to ensure that their brand message is effectively communicated to their target audience, helping them to stand out in a crowded market.
-section2: >-
   In addition to image and marketing services, Hieu Trung is also a leader in
   digitalizing businesses. We help businesses of all sizes to adapt to the
   digital age by developing custom software solutions, creating e-commerce
@@ -22,6 +14,14 @@ section2: >-
 
 
   At Hieu Trung, we pride ourselves on our professionalism, creativity, and commitment to excellence. We strive to exceed our clients' expectations, delivering results that help them to achieve their business goals. Contact us today to learn more about how Hieu Trung can help your business succeed.
+section2: Our goal is to provide a strong impetus for the development of
+  businesses in Vietnam through digitalization. We believe that digital
+  transformation is a key factor in increasing efficiency, improving
+  competitiveness, and unlocking new growth opportunities for businesses. By
+  helping businesses to leverage technology and data to their advantage, we aim
+  to support their growth and contribute to the economic development of Vietnam.
+  With our expertise and passion for innovation, we are committed to empowering
+  businesses to thrive in today's digital age.
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Also background videos, with poster image & title overlay.
