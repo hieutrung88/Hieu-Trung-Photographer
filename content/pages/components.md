@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Hieu Trung Group
-featuredImage: https://ucarecdn.com/ace611c5-8953-4077-b8fe-4129b25bd055/
+featuredImage: https://ucarecdn.com/b6fc53a4-7c21-4676-958f-1a5d9773bce5/
 subtitle: Transforming businesses for a digital tomorrow
 section1: >-
   In addition to image and marketing services, Hieu Trung is also a leader in
