@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: components
 title: Hieu Trung Group
 featuredImage: https://ucarecdn.com/ace611c5-8953-4077-b8fe-4129b25bd055/
-subtitle: For a digital tomorrow
+subtitle: Transforming businesses for a digital tomorrow.
 section1: >-
   ## This is a container component
 
