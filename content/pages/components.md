@@ -5,7 +5,7 @@ title: Hieu Trung Group
 featuredImage: https://ucarecdn.com/ace611c5-8953-4077-b8fe-4129b25bd055/
 subtitle: Transforming businesses for a digital tomorrow
 section1: >-
-  ## About
+  ## I'm Hieu Trung 
 
 
   Hieu Trung is a dynamic and innovative company that offers a wide range of services in image and marketing fields, as well as digitalizing businesses. With a team of highly skilled and experienced professionals, Hieu Trung is committed to providing top-notch solutions that meet the unique needs of each client.
