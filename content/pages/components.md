@@ -1,7 +1,7 @@
 ---
 template: ComponentsPage
 slug: components
-title: Project
+title: Hieu Trung Group
 featuredImage: https://ucarecdn.com/ace611c5-8953-4077-b8fe-4129b25bd055/
 subtitle: This is the components page subtitle.
 section1: >-
