@@ -1,30 +1,31 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: "Hieu Trung Group "
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: >-
+  Hieu Trung is a dynamic and innovative company that offers a wide range of
+  services in image and marketing fields, as well as digitalizing businesses.
+  With a team of highly skilled and experienced professionals, Hieu Trung is
+  committed to providing top-notch solutions that meet the unique needs of each
+  client.
+
+
+  Our image and marketing services include but are not limited to branding, graphic design, photography, videography, social media management, and content creation. We work closely with our clients to ensure that their brand message is effectively communicated to their target audience, helping them to stand out in a crowded market.
+
+
+  In addition to image and marketing services, Hieu Trung is also a leader in digitalizing businesses. We help businesses of all sizes to adapt to the digital age by developing custom software solutions, creating e-commerce platforms, and optimizing websites for search engines. Our digitalization services enable businesses to streamline their operations, improve their customer experience, and increase their revenue.
+
+
+  At Hieu Trung, we pride ourselves on our professionalism, creativity, and commitment to excellence. We strive to exceed our clients' expectations, delivering results that help them to achieve their business goals. Contact us today to learn more about how Hieu Trung can help your business succeed.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+Hieu Trung is a dynamic and innovative company that offers a wide range of services in image and marketing fields, as well as digitalizing businesses. With a team of highly skilled and experienced professionals, Hieu Trung is committed to providing top-notch solutions that meet the unique needs of each client.
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Our image and marketing services include but are not limited to branding, graphic design, photography, videography, social media management, and content creation. We work closely with our clients to ensure that their brand message is effectively communicated to their target audience, helping them to stand out in a crowded market.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+In addition to image and marketing services, Hieu Trung is also a leader in digitalizing businesses. We help businesses of all sizes to adapt to the digital age by developing custom software solutions, creating e-commerce platforms, and optimizing websites for search engines. Our digitalization services enable businesses to streamline their operations, improve their customer experience, and increase their revenue.
 
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+At Hieu Trung, we pride ourselves on our professionalism, creativity, and commitment to excellence. We strive to exceed our clients' expectations, delivering results that help them to achieve their business goals. Contact us today to learn more about how Hieu Trung can help your business succeed.
