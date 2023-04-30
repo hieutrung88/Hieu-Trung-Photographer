@@ -23,53 +23,9 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       backgroundImage={featuredImage}
     />
 
-    <section className="section">
-      <div className="container">
-        <Content source={body} />
-      </div>
-    </section>
+   
   </main>
 )
-
-
-
-// Export Template for use in CMS preview
-export const ComponentsPageTemplate = ({
-  title,
-  subtitle,
-  featuredImage,
-  section1,
-  section2,
-  video,
-  videoPoster,
-  videoTitle,
-  accordion,
-  body,
-  gallery
-}) => (
-  <main>
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
-    <section className="section">
-      <div className="container">
-        <Content source={section1} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>New Project</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-
-
 
 
 // Export Default HomePage for front-end
