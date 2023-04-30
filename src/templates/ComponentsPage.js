@@ -37,7 +37,7 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>Dự án thực hiện</h2>
+        <h2>New Project</h2>
         <Gallery images={gallery} />
       </div>
     </section>
